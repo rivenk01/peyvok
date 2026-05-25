@@ -1,0 +1,6 @@
+{
+  "name": "Badini Peyvok",
+  "description": "Engaging and precise Kurdish-Badini Translation & Concept Explanation tool. Explains the meaning, usage context, and delivers examples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
